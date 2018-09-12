@@ -61,3 +61,97 @@ Collection of Maquette
 | Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
 
 
+| Field               | Value A                                         | Value B                                    |
+| ------------------- | ----------------------------------------------- | ------------------------------------------ |
+| N. d'inventario     | Cat. 7105                                       | Cat. 7105                                  |
+| Oggetto             | Modellino del tempio di Nefertari ad Abu Simbel | Modello del Tempio di Ibsamboul            |
+| Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
+| Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Datazione           | -                                               | Epoca Moderna                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+
+
+| Field               | Value A                                         | Value B                                    |
+| ------------------- | ----------------------------------------------- | ------------------------------------------ |
+| N. d'inventario     | Cat. 7106                                       | Cat. 7106                                  |
+| Oggetto             | Modellino del tempio di Nefertari ad Abu Simbel | Modello del Tempio di Ibsamboul            |
+| Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
+| Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Datazione           | -                                               | Epoca Moderna                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+
+
+| Field               | Value A                                    | 
+| ------------------- | ------------------------------------------ | 
+| N. d'inventario     | Cat. 7107                                  | 
+| Oggetto             | Modellino del tempio di Beit el-Uali       | 
+| Materiale/tecnic    | Legno stuccato e dipinto                   | 
+| Dimensioni 1° Pezzo | 28 x 26,5 x 65 cm                          | 
+| Dimensioni 2° Pezzo | -                                          | 
+| Datazione           | -                                          | 
+| Coll. attuale       | Sala 15 Vetrina 04                         | 
+| Collocazione        | Sala 15 Vetrina 04                         |
+
+
+| Field               | Value A                                         | Value B                                    |
+| ------------------- | ----------------------------------------------- | ------------------------------------------ |
+| N. d'inventario     | Cat. 7108                                       | Cat. 7108                                  |
+| Oggetto             | Modellino del tempio di Nefertari ad Abu Simbel | Modello del Tempio di Ibsamboul            |
+| Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
+| Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Datazione           | -                                               | Epoca Moderna                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+
+
+| Field               | Value A                                    | 
+| ------------------- | ------------------------------------------ | 
+| N. d'inventario     | Cat. 7109                                  | 
+| Oggetto             | Modellino del tempio di Beit el-Uali       | 
+| Materiale/tecnic    | Legno stuccato e dipinto                   | 
+| Dimensioni 1° Pezzo | 28 x 26,5 x 65 cm                          | 
+| Dimensioni 2° Pezzo | -                                          | 
+| Datazione           | -                                          | 
+| Coll. attuale       | Sala 15 Vetrina 04                         | 
+| Collocazione        | Sala 15 Vetrina 04                         |
+
+
+| Field               | Value A                                         | Value B                                    |
+| ------------------- | ----------------------------------------------- | ------------------------------------------ |
+| N. d'inventario     | Cat. 7110                                       | Cat. 7110                                  |
+| Oggetto             | Modellino del tempio di Nefertari ad Abu Simbel | Modello del Tempio di Ibsamboul            |
+| Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
+| Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Datazione           | -                                               | Epoca Moderna                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+
+
+| Field               | Value A                                         | Value B                                    |
+| ------------------- | ----------------------------------------------- | ------------------------------------------ |
+| N. d'inventario     | Cat. 7111                                       | Cat. 7111                                  |
+| Oggetto             | Modellino del tempio di Nefertari ad Abu Simbel | Modello del Tempio di Ibsamboul            |
+| Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
+| Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Datazione           | -                                               | Epoca Moderna                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+
+
+| Field               | Value A                                         | Value B                                    |
+| ------------------- | ----------------------------------------------- | ------------------------------------------ |
+| N. d'inventario     | Cat. 7112                                       | Cat. 7112                                  |
+| Oggetto             | Modellino del tempio di Nefertari ad Abu Simbel | Modello del Tempio di Ibsamboul            |
+| Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
+| Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Datazione           | -                                               | Epoca Moderna                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
