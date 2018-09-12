@@ -2,15 +2,15 @@ Data for Models (maquettes) of Egyptian Temples - Nubia
 
 | Field               | --> CRM class |
 | ------------------- | ------------- |
-| N. d'inventario     |   |
-| Oggetto             |   |
-| Materiale/tecnic    |   |
-| Dimensioni 1° Pezzo |   |
-| Dimensioni 2° Pezzo |   |
-| Dimensioni 3° Pezzo |   |
-| Datazione           |   |
-| Coll. attuale       |   |
-| Collocazione        |   |
+| **N. d'inventario**     |   |
+| **Oggetto**             |   |
+| **Materiale/tecnic**    |   |
+| **Dimensioni 1° Pezzo** |   |
+| **Dimensioni 2° Pezzo** |   |
+| **Dimensioni 3° Pezzo** |   |
+| **Datazione**           |   |
+| **Coll. attuale**       |   |
+| **Collocazione**        |   |
 
 Collection of Maquette
 
