@@ -2,5 +2,5 @@ Models (maquettes) of Egyptian Temples - Nubia
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| N. d'inventario  | Content Cell  |
+| Oggetto  | Content Cell  |
