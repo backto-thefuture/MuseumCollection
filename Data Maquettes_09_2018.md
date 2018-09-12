@@ -2,17 +2,17 @@ Data for Models (maquettes) of Egyptian Temples - Nubia
 
 | Field               | --> CRM class |
 | ------------------- | ------------- |
-| **N. d'inventario**     |   |
-| **Oggetto**             |   |
-| **Materiale/tecnic**    |   |
+| **N. d'inventario**     | E42 Identifier |
+| **Oggetto**             | E41 Appellation |
+| **Materiale/tecnic**    | E57 Material |
 | **Dimensioni 1° Pezzo** |   |
 | **Dimensioni 2° Pezzo** |   |
 | **Dimensioni 3° Pezzo** |   |
 | **Datazione**           |   |
-| **Coll. attuale**       |   |
-| **Collocazione**        |   |
+| **Coll. attuale**       | E44 Place Appellation |
+| **Collocazione**        | E44 Place Appellation |
 
-Collection of Maquette
+**Collection of Maquettes**
 
 | Field               | Value A                                    | Value B                                    |
 | ------------------- | ------------------------------------------ | ------------------------------------------ |
