@@ -1,6 +1,6 @@
 Models (maquettes) of Egyptian Temples - Nubia
 
-| First Header  | Second Header |
+| Field  | --> CRM class |
 | ------------- | ------------- |
 | N. d'inventario  |   |
 | Oggetto  |   |
