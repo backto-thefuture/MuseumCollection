@@ -149,10 +149,22 @@ Collection of Maquette
 | Field               | Value A                                         | Value B                                    |
 | ------------------- | ----------------------------------------------- | ------------------------------------------ |
 | N. d'inventario     | Cat. 7112                                       | Cat. 7112                                  |
-| Oggetto             | Modellino del tempio di Nefertari ad Abu Simbel | Modello del Tempio di Ibsamboul            |
+| Oggetto             | Modellino del tempio di Derr                    | Modello del Tempio di Derry                |
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
-| Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
-| Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 1° Pezzo | 37 x 89 x 37,5 cm                               | 37 x 89 x 33 cm                            |
+| Dimensioni 2° Pezzo | 37 x 89 x 33 cm                                 | 37 x 89 x 37,5 cm                          |
 | Datazione           | -                                               | Epoca Moderna                              |
-| Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
-| Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2009                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2009                       | magazzino - 2                              |
+
+
+| Field               | Value A                                         | Value B                                    |
+| ------------------- | ----------------------------------------------- | ------------------------------------------ |
+| N. d'inventario     | Cat. 7113                                       | Cat. 7113                                  |
+| Oggetto             | Modellino del tempio El-Hilla (Contralatopolis) /Qena erroneamente indicato come | Modello del Tempio di Calabscieh           |
+| Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
+| Dimensioni 1° Pezzo | 29 x 82 x 23 cm                                 | 29 x 82 x 22,5 cm                          |
+| Dimensioni 2° Pezzo | 29 x 82 x 22,5 cm                               | 29 x 82 x 23 cm                            |
+| Datazione           | -                                               | Epoca Moderna                              |
+| Coll. attuale       | Ex-Antichità - Cassa 2003                       | magazzino - 2                              |
+| Collocazione        | Ex-Antichità - Cassa 2003                       | magazzino - 2                              |
