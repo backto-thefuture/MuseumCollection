@@ -7,6 +7,7 @@ Data for Models (maquettes) of Egyptian Temples - Nubia
 | Materiale/tecnic    |   |
 | Dimensioni 1° Pezzo |   |
 | Dimensioni 2° Pezzo |   |
+| Dimensioni 3° Pezzo |   |
 | Datazione           |   |
 | Coll. attuale       |   |
 | Collocazione        |   |
@@ -20,6 +21,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                   | Legno stucco                               |
 | Dimensioni 1° Pezzo | 40 x 60 x 35 cm                            | 65 x 35 x 40 cm                            |
 | Dimensioni 2° Pezzo | -                                          | -                                          |
+| Dimensioni 3° Pezzo | -                                          | -                                          |
 | Datazione           | -                                          | Epoca Moderna                              |
 | Coll. attuale       | Ex-Antichità - Cassa 2005                  | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2005                  | -                                          |
@@ -32,6 +34,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                   | Legno stucco                               |
 | Dimensioni 1° Pezzo | 39 x 31 x 63 cm                            | 63 x 31 x 39 cm                            |
 | Dimensioni 2° Pezzo | 39 x 31 x 63 cm                            | 63 x 31 x 39 cm                            |
+| Dimensioni 3° Pezzo | -                                          | -                                          |
 | Datazione           | -                                          | Epoca Moderna                              |
 | Coll. attuale       | Magazzino - 2                              | magazzino - 2                              |
 | Collocazione        | Lapidario Vecchio, scaffale B, ripiano 5   | magazzino - 2                              |
@@ -43,7 +46,8 @@ Collection of Maquette
 | Oggetto             | Modellino del tempio di Beit el-Uali       | 
 | Materiale/tecnic    | Legno stuccato e dipinto                   | 
 | Dimensioni 1° Pezzo | 28 x 26,5 x 65 cm                          | 
-| Dimensioni 2° Pezzo | -                                          | 
+| Dimensioni 2° Pezzo | -                                          |
+| Dimensioni 3° Pezzo | -                                          |
 | Datazione           | -                                          | 
 | Coll. attuale       | Sala 15 Vetrina 04                         | 
 | Collocazione        | Sala 15 Vetrina 04                         |
@@ -56,6 +60,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
 | Dimensioni 1° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
 | Dimensioni 2° Pezzo | 57 x 81 x 33 cm                                 | 81 x 33 x 57 cm                            |
+| Dimensioni 3° Pezzo | -                                               | -                                          |
 | Datazione           | -                                               | Epoca Moderna                              |
 | Coll. attuale       | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2002                       | magazzino - 2                              |
@@ -68,6 +73,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
 | Dimensioni 1° Pezzo | 29 x 81 x 32 cm                                 | 81 x 32 x 29 cm                            |
 | Dimensioni 2° Pezzo | 29 x 81 x 33,5 cm                               | 81 x 33,5 x 29 cm                          |
+| Dimensioni 3° Pezzo | -                                               | -                                          |
 | Datazione           | -                                               | Epoca Moderna                              |
 | Coll. attuale       | Ex-Antichità - Cassa 2001                       | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2001                       | magazzino - 2                              |
@@ -80,6 +86,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
 | Dimensioni 1° Pezzo | 42 x 105,5 x 34 cm                              | 105,5 x 34 x 42 cm                         |
 | Dimensioni 2° Pezzo | 42 x 105,5 x 41 cm                              | 105,5 x 41 x 42 cm                         |
+| Dimensioni 3° Pezzo | -                                               | -                                          |
 | Datazione           | -                                               | Epoca Moderna                              |
 | Coll. attuale       | magazzino - 2                                   | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2008                       | magazzino - 2                              |
@@ -91,7 +98,8 @@ Collection of Maquette
 | Oggetto             | Modellino del tempio di Tafa Sud           | 
 | Materiale/tecnic    | Legno stuccato e dipinto                   | 
 | Dimensioni 1° Pezzo | L. base 45 x 44 cm. / H. max 26 cm.        | 
-| Dimensioni 2° Pezzo | -                                          | 
+| Dimensioni 2° Pezzo | -                                          |
+| Dimensioni 3° Pezzo | -                                          |
 | Datazione           | -                                          | 
 | Coll. attuale       | Sala 15 Vetrina 04                         | 
 | Collocazione        | Sala 15 Vetrina 04                         |
@@ -116,7 +124,8 @@ Collection of Maquette
 | Oggetto             | Modellino del tempio di Dakka              | 
 | Materiale/tecnic    | Legno stuccato e dipinto                   | 
 | Dimensioni 1° Pezzo | L. base 72 x 41 cm. / H. max 24 cm         | 
-| Dimensioni 2° Pezzo | -                                          | 
+| Dimensioni 2° Pezzo | -                                          |
+| Dimensioni 3° Pezzo | -                                          |
 | Datazione           | -                                          | 
 | Coll. attuale       | Sala 15 Vetrina 04                         | 
 | Collocazione        | Sala 15 Vetrina 04                         |
@@ -129,6 +138,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
 | Dimensioni 1° Pezzo | 30 x 78 x 25,5 cm                               | 78 x 26 x 30 cm                            |
 | Dimensioni 2° Pezzo | 30 x 78 x 25,5 cm                               | 78 x 26 x 30 cm                            |
+| Dimensioni 3° Pezzo | -                                               | -                                          |
 | Datazione           | -                                               | Epoca Moderna                              |
 | Coll. attuale       | Ex-Antichità - Cassa 2010                       | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2010                       | magazzino - 2                              |
@@ -141,6 +151,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
 | Dimensioni 1° Pezzo | 38 x 90 x 33 cm                                 | 38 x 33 x 90 cm                            |
 | Dimensioni 2° Pezzo | -                                               | -                                          |
+| Dimensioni 3° Pezzo | -                                               | -                                          |
 | Datazione           | -                                               | Epoca Moderna                              |
 | Coll. attuale       | Ex-Antichità - Cassa 2006                       | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2006                       | magazzino - 2                              |
@@ -153,6 +164,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
 | Dimensioni 1° Pezzo | 37 x 89 x 37,5 cm                               | 37 x 89 x 33 cm                            |
 | Dimensioni 2° Pezzo | 37 x 89 x 33 cm                                 | 37 x 89 x 37,5 cm                          |
+| Dimensioni 3° Pezzo | -                                               | -                                          |
 | Datazione           | -                                               | Epoca Moderna                              |
 | Coll. attuale       | Ex-Antichità - Cassa 2009                       | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2009                       | magazzino - 2                              |
@@ -165,6 +177,7 @@ Collection of Maquette
 | Materiale/tecnic    | Legno stuccato e dipinto                        | Legno stucco                               |
 | Dimensioni 1° Pezzo | 29 x 82 x 23 cm                                 | 29 x 82 x 22,5 cm                          |
 | Dimensioni 2° Pezzo | 29 x 82 x 22,5 cm                               | 29 x 82 x 23 cm                            |
+| Dimensioni 3° Pezzo | -                                               | -                                          |
 | Datazione           | -                                               | Epoca Moderna                              |
 | Coll. attuale       | Ex-Antichità - Cassa 2003                       | magazzino - 2                              |
 | Collocazione        | Ex-Antichità - Cassa 2003                       | magazzino - 2                              |
