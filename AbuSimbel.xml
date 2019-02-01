@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<root>
+  <row>
+    <n_inv>Cat.7104</n_inv>
+    <object>Maquette</object>
+    <object_appellation_1>Temple of Nefertari at Abu Simbel</object_appellation_1>
+    <object_appellation_2>Temple of Ibsamboul</object_appellation_2>
+    <material>wood</material>
+    <type_material>painted</type_material>
+    <n_of_parts>2</n_of_parts>
+    <period>Modern</period>
+    <date>1820 ca.</date>
+    <current_location>Ex. Antichità - Cassa 2002</current_location>
+    <owner>
+      <name>F.Ch. Gau</name>
+      <ulan>http://vocab.getty.edu/page/ulan/500009519</ulan>
+      <viaf>https://viaf.org/viaf/122218790/</viaf>
+    </owner>
+    <creator>
+      <name>J.J. Rifaud</name>
+      <viaf>https://viaf.org/viaf/79139285/</viaf>
+    </creator>
+    <museum>
+      <name>Museo Egizio</name>
+      <holding>Fondazione Museo delle Antichità Egizie di Torino</holding>
+      <place>
+        <name>Turin</name>
+        <location>Piedmont</location>
+        <nation>Italy</nation>
+        <iso_code>IT</iso_code>
+      </place>
+    </museum>
+    <feature>
+      <type>Temple</type>
+      <name>Temple of Nefertari</name>
+      <place>
+        <name>Abu Simbel</name>
+        <location>Governorate of Aswan</location>
+        <nation>Egypt</nation>
+        <iso_code>EG</iso_code>
+        <latitude>22.3372222222</latitude>
+        <longitude>31.6258055556</longitude>
+      </place>
+    </feature>
+    <part>
+      <name>Abu Simbel DX</name>
+      <dimension>
+        <x_value>31</x_value>
+        <y_value>36</y_value>
+        <z_value>81</z_value>
+      </dimension>
+      <dig>
+        <digitization>photogrammetry acquisition</digitization>
+        <data_object>Abusimbel_MicMac_Dx</data_object>
+        <data_derivation_1>AbusimbelDX_texture.obj</data_derivation_1>
+        <data_derivation_2>AbusimbelDXmesh.obj</data_derivation_2>
+        <data_derivation_3>AbusimbelDXmeshmixer.obj</data_derivation_3>
+        <data_derivation_4>AbusimbelDXmeshmixer.nxs</data_derivation_4>
+        <data_derivation_5>AbusimbelDXmeshmixer.nxz</data_derivation_5>
+      </dig>
+    </part>
+    <part>
+      <name>Abu Simbel SX</name>
+      <dimension>
+        <x_value>38</x_value>
+        <y_value>36</y_value>
+        <z_value>82</z_value>
+      </dimension>
+      <dig>
+        <digitization>photogrammetry acquisition</digitization>
+        <data_object>Abusimbel_MicMac_Sx</data_object>
+        <data_derivation_1>AbusimbelSX_texture.obj</data_derivation_1>
+        <data_derivation_2>AbusimbelSXmesh.obj</data_derivation_2>
+        <data_derivation_3>AbusimbelSXmeshmixer.obj</data_derivation_3>
+        <data_derivation_4>AbusimbelSXmeshmixer.nxs</data_derivation_4>
+        <data_derivation_5>AbusimbelSXmeshmixer.nxz</data_derivation_5>
+      </dig>
+    </part>
+    <data_url>https://github.com/backto-thefuture/backto-thefuture.github.io/tree/master/models</data_url>
+    <data_visualization>https://backto-thefuture.github.io/abu-simbel.html</data_visualization>
+    <site_url>https://backto-thefuture.github.io/</site_url>
+  </row>
+</root>
