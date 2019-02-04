@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+
+<root>
+  <row>
+    <ME_Cat_id>Cat.7103</ME_Cat_id>
+    <ME_id></ME_id>
+    <object>Maquette</object>
+      <object_appellation>
+        <object_app_1>Temple of Beit el-Wali</object_app_1>
+        <ref_app_1>Project</ref_app_1>
+        <object_app_2>Beit el-Wâli</object_app_2>
+        <ref_app_2>Oxford</ref_app_2>
+      </object_appellation>
+    <material>wood</material>
+    <type_material>painted</type_material>
+    <n_of_parts>2</n_of_parts>
+    <period>Modern</period>
+    <date>1820 ca.</date>
+    <current_location>Sala 15 vetrina 04</current_location>
+    <reference>
+      <ref_type></ref_type>
+      <ref_author></ref_author>
+      <ref_publicatiom_date></ref_publicatiom_date>
+      <ref_type_planche></ref_type_planche>
+      <ref_title></ref_title>
+      <ref_publisher></ref_publisher>
+      <ref_type_note></ref_type_note>
+    </reference>
+    <owner>
+      <name>F.Ch. Gau</name>
+      <ulan>http://vocab.getty.edu/page/ulan/500009519</ulan>
+      <viaf>https://viaf.org/viaf/122218790/</viaf>
+    </owner>
+    <creator>
+      <name>J.J. Rifaud</name>
+      <viaf>https://viaf.org/viaf/79139285/</viaf>
+    </creator>
+    <museum>
+      <name>Museo Egizio</name>
+      <holding>Fondazione Museo delle Antichità Egizie di Torino</holding>
+      <place>
+        <name>Turin</name>
+        <location>Piedmont</location>
+        <nation>Italy</nation>
+        <iso_code>IT</iso_code>
+      </place>
+    </museum>
+    <feature>
+      <type>Temple</type>
+      <place>
+        <name>Temple d'Amon - Beit el-Wali</name>
+        <location>Aswan Governorate</location>
+        <nation>Egypt</nation>
+        <iso_code>EG</iso_code>
+        <site>
+          <GPS_data_coordinate_system>WGS84</GPS_data_coordinate_system>
+          <GPS_data_N>23.9607754</GPS_data_N>
+          <GPS_data_E>32.8655643</GPS_data_E>
+          <GPS_data_z>1143</GPS_data_z>
+        </site>
+      </place>
+    </feature>
+    <part>
+      <name>Beit el wali DX</name>
+      <date_acquisition>23-07-2018</date_acquisition>
+      <dimension>
+        <x_value>27</x_value>
+        <y_value>29</y_value>
+        <z_value>67</z_value>
+      </dimension>
+      <dig>
+        <digitization>photogrammetry_acquisition</digitization>
+        <camera>Canon</camera>
+        <camera_lens>50 mm</camera_lens>
+        <software_camera>Canon Camera Connect</software_camera>
+        <data_object></data_object>
+        <data_derivation_1>tafa_sud_dx_texture.obj</data_derivation_1>
+        <software_der_1></software_der_1>
+        <data_derivation_2>DX_BEITELWALI.obj</data_derivation_2>
+        <software_der_2>MeshLab</software_der_2>
+        <data_derivation_3>DX_BEITELWALImesh.obj</data_derivation_3>
+        <software_der_3>MeshLab</software_der_3>
+        <data_derivation_4>DX_BEITELWALImeshmixer.obj</data_derivation_4>
+        <software_der_4>MeshMixer</software_der_4>
+        <data_derivation_5>DX_BEITELWALI.ply</data_derivation_5>
+        <software_der_5>MeshLab</software_der_5>
+        <data_derivation_6>DX_BEITELWALI.nxs</data_derivation_6>
+        <software_der_6>Nexsus_4.2</software_der_6>
+        <data_derivation_7>DX_BEITELWALI.nxz</data_derivation_7>
+        <software_der_7>Nexsus_4.2</software_der_7>
+      </dig>
+    </part>
+    <part>
+      <name>Beit el wali SX</name>
+      <date_acquisition>23-07-2018</date_acquisition>
+      <dimension>
+        <x_value>27</x_value>
+        <y_value>29</y_value>
+        <z_value>67</z_value>
+      </dimension>
+      <dig>
+        <digitization>photogrammetry_acquisition</digitization>
+        <camera>Canon</camera>
+        <camera_lens>50 mm</camera_lens>
+        <software_camera>Canon Camera Connect</software_camera>
+        <data_object></data_object>
+        <data_derivation_1>beit_el_wali_sx_texture.obj</data_derivation_1>
+        <software_der_1></software_der_1>
+        <data_derivation_2>SX_BEITELWALI.obj</data_derivation_2>
+        <software_der_2>MeshLab</software_der_2>
+        <data_derivation_3>SX_BEITELWALImesh.obj</data_derivation_3>
+        <software_der_3>MeshLab</software_der_3>
+        <data_derivation_4>SX_BEITELWALImeshmixer.obj</data_derivation_4>
+        <software_der_4>MeshMixer</software_der_4>
+        <data_derivation_5>SX_BEITELWALI.ply</data_derivation_5>
+        <software_der_5>MeshLab</software_der_5>
+        <data_derivation_6>SX_BEITELWALI.nxs</data_derivation_6>
+        <software_der_6>Nexsus_4.2</software_der_6>
+        <data_derivation_7>SX_BEITELWALI.nxz</data_derivation_7>
+        <software_der_7>Nexsus_4.2</software_der_7>
+      </dig>
+    </part>
+    <data_url>https://github.com/backto-thefuture/backto-thefuture.github.io/tree/master/models</data_url>
+    <data_visualization>https://backto-thefuture.github.io/beit-el-wali.html</data_visualization>
+    <site_url>https://backto-thefuture.github.io/</site_url>
+  </row>
+</root>

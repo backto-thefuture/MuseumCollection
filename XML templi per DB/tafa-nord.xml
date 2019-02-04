@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+
+<root>
+  <row>
+    <ME_Cat_id>Cat.7104</ME_Cat_id>
+    <ME_id>121865</ME_id>
+    <object>Maquette</object>
+      <object_appellation>
+        <object_app_1>Small Temple of Abu Simbel</object_app_1>
+        <ref_app_1>Project</ref_app_1>
+        <object_app_2>Abû Simbel</object_app_2>
+        <ref_app_2>Oxford</ref_app_2>
+        <object_app_3>Ibsamboul</object_app_3>
+        <ref_app_3>Rifaud Plate</ref_app_3>
+      </object_appellation>
+    <material>wood</material>
+    <type_material>painted</type_material>
+    <n_of_parts>2</n_of_parts>
+    <period>Modern</period>
+    <date>1820 ca.</date>
+    <current_location>Ex. Antichità - Cassa 2002</current_location>
+    <reference>
+      <ref_type>Book</ref_type>
+      <ref_author>M.J.J. Rifaud</ref_author>
+      <ref_publicatiom_date>1830</ref_publicatiom_date>
+      <ref_type_planche>Pl. none</ref_type_planche>
+      <ref_title>Voyage en Ègypte en Nubie et lieux circonvoisins</ref_title>
+      <ref_publisher>de l'imprimerie de chapelet</ref_publisher>
+      <ref_type_note>Rifaud Plate</ref_type_note>
+    </reference>
+    <owner>
+      <name>F.Ch. Gau</name>
+      <ulan>http://vocab.getty.edu/page/ulan/500009519</ulan>
+      <viaf>https://viaf.org/viaf/122218790/</viaf>
+    </owner>
+    <creator>
+      <name>J.J. Rifaud</name>
+      <viaf>https://viaf.org/viaf/79139285/</viaf>
+    </creator>
+    <museum>
+      <name>Museo Egizio</name>
+      <holding>Fondazione Museo delle Antichità Egizie di Torino</holding>
+      <place>
+        <name>Turin</name>
+        <location>Piedmont</location>
+        <nation>Italy</nation>
+        <iso_code>IT</iso_code>
+      </place>
+    </museum>
+    <feature>
+      <type>Temple</type>
+      <place>
+        <name>Abu Simbel</name>
+        <location>Governorate of Aswan</location>
+        <nation>Egypt</nation>
+        <iso_code>EG</iso_code>
+        <site>
+          <GPS_data_coordinate_system>WGS 84</GPS_data_coordinate_system>
+          <GPS_data_N>22.3372222222</GPS_data_N>
+          <GPS_data_E>31.6258055556</GPS_data_E>
+          <GPS_data_z></GPS_data_z>
+        </site>
+      </place>
+    </feature>
+    <part>
+      <name>Abu Simbel DX</name>
+      <date_acquisition>26-02-2018</date_acquisition>
+      <dimension>
+        <x_value>31</x_value>
+        <y_value>36</y_value>
+        <z_value>81</z_value>
+      </dimension>
+      <dig>
+        <digitization>photogrammetry_acquisition</digitization>
+        <data_object>Abusimbel_MicMac_Dx</data_object>
+        <data_derivation_1>AbusimbelDX_texture.obj</data_derivation_1>
+        <data_derivation_2>AbusimbelDXmesh.obj</data_derivation_2>
+        <data_derivation_3>AbusimbelDXmeshmixer.obj</data_derivation_3>
+        <data_derivation_4>AbusimbelDXmeshmixer.nxs</data_derivation_4>
+        <data_derivation_5>AbusimbelDXmeshmixer.nxz</data_derivation_5>
+      </dig>
+    </part>
+    <part>
+      <name>Abu Simbel SX</name>
+      <date_acquisition>26-02-2018</date_acquisition>
+      <dimension>
+        <x_value>38</x_value>
+        <y_value>36</y_value>
+        <z_value>82</z_value>
+      </dimension>
+      <dig>
+        <digitization>photogrammetry_acquisition</digitization>
+        <data_object>Abusimbel_MicMac_Sx</data_object>
+        <data_derivation_1>AbusimbelSX_texture.obj</data_derivation_1>
+        <data_derivation_2>AbusimbelSXmesh.obj</data_derivation_2>
+        <data_derivation_3>AbusimbelSXmeshmixer.obj</data_derivation_3>
+        <data_derivation_4>AbusimbelSXmeshmixer.nxs</data_derivation_4>
+        <data_derivation_5>AbusimbelSXmeshmixer.nxz</data_derivation_5>
+      </dig>
+    </part>
+    <data_url>https://github.com/backto-thefuture/backto-thefuture.github.io/tree/master/models</data_url>
+    <data_visualization>https://backto-thefuture.github.io/abu-simbel.html</data_visualization>
+    <site_url>https://backto-thefuture.github.io/</site_url>
+  </row>
+</root>
