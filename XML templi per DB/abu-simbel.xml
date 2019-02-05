@@ -56,9 +56,9 @@
         <iso_code>EG</iso_code>
         <site>
           <GPS_data_coordinate_system>WGS84</GPS_data_coordinate_system>
-          <GPS_data_N>22.3374511</GPS_data_N>
-          <GPS_data_E>31.6258248</GPS_data_E>
-          <GPS_data_z>325</GPS_data_z>
+          <GPS_data_N>22.3376555</GPS_data_N>
+          <GPS_data_E>31.6272115</GPS_data_E>
+          <GPS_data_z>463</GPS_data_z>
         </site>
       </place>
     </feature>
